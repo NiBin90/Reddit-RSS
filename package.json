@@ -1,8 +1,8 @@
 {
-    "name": "myApp",
+    "name": "Reddit-RSS",
     "version": "0.0.1",
-    "author": "Ionic Framework",
-    "homepage": "http://ionicframework.com/",
+    "author": "Bin Ni",
+    "homepage": "https://nibin90.github.io",
     "private": true,
     "scripts": {
         "clean": "ionic-app-scripts clean",
